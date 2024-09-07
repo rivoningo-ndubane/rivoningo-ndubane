@@ -1,4 +1,10 @@
-# Hi there 👋
+- 👋 Hi, I’m Rivoningo Ndubane
+- 👀 I’m interested in AI and Backend Develoment
+- 🌱 I’m currently refining my skills in Python
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me rivinine@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love games
 
 <!--
 **rivoningo-ndubane/rivoningo-ndubane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
